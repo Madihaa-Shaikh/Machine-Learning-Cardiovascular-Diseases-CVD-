@@ -1,0 +1,14 @@
+. Read file cardio_train.csv into a data dataframe 
+· Print dimension of the dataframe 
+· Print column names of the dataframe 
+· Select values of the colums ageinto an array 
+· Compute the year of the agevalues 
+· Compute maximum and minimum of the age values 
+· Split data into training and test datas 
+· Scale data using standard scaler
+. Create a Logistic Regression Model 
+· Train the model · Predict the output 
+· Compare the predicted output with the real value 
+· Print the importance of the features 
+· Print all features and their values of one proband 
+· Visualize feature important in a bar chart
